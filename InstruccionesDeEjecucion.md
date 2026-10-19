@@ -25,7 +25,7 @@ Este repositorio contiene la implementación de una API en .NET para la gestión
 Ejemplo:
 ```json
 "ConnectionStrings": {
-  "CadenaSQL": "Server=TU_SERVIDOR_SQL;Database=TuBaseDeDatos;Integrated Security=True;TrustServerCertificate=True;"
+    "CadenaSQL": "Data Source=EMIR\\MSSQLSERVEREXP;Initial Catalog=PRACTICA_CLIENTE;Integrated Security=True;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 ```
 

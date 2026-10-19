@@ -32,7 +32,7 @@ Ejemplo:
 ### 3. Ejecutar la API
 1. Presiona `F5` o haz clic en el botón de **"Ejecutar"** en la parte superior de Visual Studio para compilar e iniciar el proyecto.
 2. Se abrirá una ventana de consola o el navegador indicando el puerto local donde la API está en ejecución. 
-3. Toma nota de la URL base (por ejemplo, `https://localhost:7153`).
+3. Toma nota de la URL base (por ejemplo, `https://localhost:5299`).
 
 ### 4. Ejecutar pruebas en Postman
 1. Abre la aplicación Postman.

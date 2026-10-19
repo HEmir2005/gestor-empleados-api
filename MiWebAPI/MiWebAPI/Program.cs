@@ -10,6 +10,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<EmpleadoData>();
+builder.Services.AddSingleton<ProveedorData>();
+builder.Services.AddSingleton<ClienteData>();
+
 
 builder.Services.AddCors(options =>
 {
